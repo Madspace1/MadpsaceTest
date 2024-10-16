@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\bin\Debug\net8.0\MAD 29 reverse word.exe
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\bin\Debug\net8.0\MAD 29 reverse word.deps.json
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\bin\Debug\net8.0\MAD 29 reverse word.runtimeconfig.json
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\bin\Debug\net8.0\MAD 29 reverse word.dll
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\bin\Debug\net8.0\MAD 29 reverse word.pdb
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.dll
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\refint\MAD 29 reverse word.dll
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.pdb
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\MAD 29 reverse word.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 29 reverse word\MAD 29 reverse word\obj\Debug\net8.0\ref\MAD 29 reverse word.dll

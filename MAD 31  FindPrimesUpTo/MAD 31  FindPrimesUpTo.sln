@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAD 31  FindPrimesUpTo", "MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo.csproj", "{8A58956C-3DD0-44B5-9F5C-5FC1CEF49A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A58956C-3DD0-44B5-9F5C-5FC1CEF49A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A58956C-3DD0-44B5-9F5C-5FC1CEF49A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A58956C-3DD0-44B5-9F5C-5FC1CEF49A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A58956C-3DD0-44B5-9F5C-5FC1CEF49A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F346EAD2-4E9B-4EA4-B21E-2F856FF480A5}
+	EndGlobalSection
+EndGlobal

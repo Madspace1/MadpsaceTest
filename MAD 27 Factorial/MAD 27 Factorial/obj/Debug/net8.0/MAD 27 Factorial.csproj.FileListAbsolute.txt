@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\bin\Debug\net8.0\MAD 27 Factorial.exe
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\bin\Debug\net8.0\MAD 27 Factorial.deps.json
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\bin\Debug\net8.0\MAD 27 Factorial.runtimeconfig.json
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\bin\Debug\net8.0\MAD 27 Factorial.dll
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\bin\Debug\net8.0\MAD 27 Factorial.pdb
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.dll
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\refint\MAD 27 Factorial.dll
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.pdb
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\MAD 27 Factorial.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 27 Factorial\MAD 27 Factorial\obj\Debug\net8.0\ref\MAD 27 Factorial.dll

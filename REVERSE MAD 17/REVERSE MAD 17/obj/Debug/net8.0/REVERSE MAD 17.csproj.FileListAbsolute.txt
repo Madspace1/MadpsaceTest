@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\bin\Debug\net8.0\REVERSE MAD 17.exe
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\bin\Debug\net8.0\REVERSE MAD 17.deps.json
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\bin\Debug\net8.0\REVERSE MAD 17.runtimeconfig.json
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\bin\Debug\net8.0\REVERSE MAD 17.dll
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\bin\Debug\net8.0\REVERSE MAD 17.pdb
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.AssemblyInfo.cs
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.dll
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\refint\REVERSE MAD 17.dll
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.pdb
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\REVERSE MAD 17.genruntimeconfig.cache
+C:\Users\user\source\repos\REVERSE MAD 17\REVERSE MAD 17\obj\Debug\net8.0\ref\REVERSE MAD 17.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MAD 23 2 lists commons/1.0.0": {
+        "runtime": {
+          "MAD 23 2 lists commons.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAD 23 2 lists commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

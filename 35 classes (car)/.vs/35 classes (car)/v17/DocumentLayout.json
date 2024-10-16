@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\35 classes (car)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2901737-2EFE-4FC4-8425-0630EDEBADC7}|35 classes (car)\\35 classes (car).csproj|c:\\users\\user\\source\\repos\\35 classes (car)\\35 classes (car)\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2901737-2EFE-4FC4-8425-0630EDEBADC7}|35 classes (car)\\35 classes (car).csproj|solutionrelative:35 classes (car)\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2901737-2EFE-4FC4-8425-0630EDEBADC7}|35 classes (car)\\35 classes (car).csproj|c:\\users\\user\\source\\repos\\35 classes (car)\\35 classes (car)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2901737-2EFE-4FC4-8425-0630EDEBADC7}|35 classes (car)\\35 classes (car).csproj|solutionrelative:35 classes (car)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\35 classes (car)\\35 classes (car)\\Car.cs",
+              "RelativeDocumentMoniker": "35 classes (car)\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\35 classes (car)\\35 classes (car)\\Car.cs",
+              "RelativeToolTip": "35 classes (car)\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:25:55.373Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\35 classes (car)\\35 classes (car)\\Program.cs",
+              "RelativeDocumentMoniker": "35 classes (car)\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\35 classes (car)\\35 classes (car)\\Program.cs",
+              "RelativeToolTip": "35 classes (car)\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T15:21:09.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

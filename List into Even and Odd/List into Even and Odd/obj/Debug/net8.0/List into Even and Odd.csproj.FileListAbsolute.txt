@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\bin\Debug\net8.0\List into Even and Odd.exe
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\bin\Debug\net8.0\List into Even and Odd.deps.json
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\bin\Debug\net8.0\List into Even and Odd.runtimeconfig.json
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\bin\Debug\net8.0\List into Even and Odd.dll
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\bin\Debug\net8.0\List into Even and Odd.pdb
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.AssemblyInfo.cs
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.dll
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\refint\List into Even and Odd.dll
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.pdb
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\List into Even and Odd.genruntimeconfig.cache
+C:\Users\user\source\repos\List into Even and Odd\List into Even and Odd\obj\Debug\net8.0\ref\List into Even and Odd.dll

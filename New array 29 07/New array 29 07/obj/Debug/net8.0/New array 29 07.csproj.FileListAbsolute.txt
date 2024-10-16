@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\New array 29 07\New array 29 07\bin\Debug\net8.0\New array 29 07.exe
+C:\Users\user\source\repos\New array 29 07\New array 29 07\bin\Debug\net8.0\New array 29 07.deps.json
+C:\Users\user\source\repos\New array 29 07\New array 29 07\bin\Debug\net8.0\New array 29 07.runtimeconfig.json
+C:\Users\user\source\repos\New array 29 07\New array 29 07\bin\Debug\net8.0\New array 29 07.dll
+C:\Users\user\source\repos\New array 29 07\New array 29 07\bin\Debug\net8.0\New array 29 07.pdb
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.AssemblyInfo.cs
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.dll
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\refint\New array 29 07.dll
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.pdb
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\New array 29 07.genruntimeconfig.cache
+C:\Users\user\source\repos\New array 29 07\New array 29 07\obj\Debug\net8.0\ref\New array 29 07.dll

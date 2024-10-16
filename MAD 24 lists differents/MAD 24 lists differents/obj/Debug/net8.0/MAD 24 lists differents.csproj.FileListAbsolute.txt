@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\bin\Debug\net8.0\MAD 24 lists differents.exe
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\bin\Debug\net8.0\MAD 24 lists differents.deps.json
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\bin\Debug\net8.0\MAD 24 lists differents.runtimeconfig.json
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\bin\Debug\net8.0\MAD 24 lists differents.dll
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\bin\Debug\net8.0\MAD 24 lists differents.pdb
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.dll
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\refint\MAD 24 lists differents.dll
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.pdb
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\MAD 24 lists differents.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 24 lists differents\MAD 24 lists differents\obj\Debug\net8.0\ref\MAD 24 lists differents.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\bin\Debug\net8.0\My lesson 1. KLAS.exe
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\bin\Debug\net8.0\My lesson 1. KLAS.deps.json
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\bin\Debug\net8.0\My lesson 1. KLAS.runtimeconfig.json
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\bin\Debug\net8.0\My lesson 1. KLAS.dll
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\bin\Debug\net8.0\My lesson 1. KLAS.pdb
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.AssemblyInfo.cs
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.dll
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\refint\My lesson 1. KLAS.dll
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.pdb
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\My lesson 1. KLAS.genruntimeconfig.cache
+C:\Users\user\source\repos\My lesson 1. KLAS\My lesson 1. KLAS\obj\Debug\net8.0\ref\My lesson 1. KLAS.dll

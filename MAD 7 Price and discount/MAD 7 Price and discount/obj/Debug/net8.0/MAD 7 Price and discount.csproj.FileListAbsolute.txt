@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\bin\Debug\net8.0\MAD 7 Price and discount.exe
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\bin\Debug\net8.0\MAD 7 Price and discount.deps.json
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\bin\Debug\net8.0\MAD 7 Price and discount.runtimeconfig.json
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\bin\Debug\net8.0\MAD 7 Price and discount.dll
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\bin\Debug\net8.0\MAD 7 Price and discount.pdb
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.dll
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\refint\MAD 7 Price and discount.dll
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.pdb
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\MAD 7 Price and discount.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 7 Price and discount\MAD 7 Price and discount\obj\Debug\net8.0\ref\MAD 7 Price and discount.dll

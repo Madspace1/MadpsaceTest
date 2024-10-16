@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\bin\Debug\net8.0\home tasks 09.04.2024.exe
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\bin\Debug\net8.0\home tasks 09.04.2024.deps.json
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\bin\Debug\net8.0\home tasks 09.04.2024.runtimeconfig.json
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\bin\Debug\net8.0\home tasks 09.04.2024.dll
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\bin\Debug\net8.0\home tasks 09.04.2024.pdb
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.AssemblyInfo.cs
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.dll
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\refint\home tasks 09.04.2024.dll
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.pdb
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\home tasks 09.04.2024.genruntimeconfig.cache
+C:\Users\user\source\repos\home tasks 09.04.2024\home tasks 09.04.2024\obj\Debug\net8.0\ref\home tasks 09.04.2024.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "List into Even and Odd/1.0.0": {
+        "runtime": {
+          "List into Even and Odd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "List into Even and Odd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

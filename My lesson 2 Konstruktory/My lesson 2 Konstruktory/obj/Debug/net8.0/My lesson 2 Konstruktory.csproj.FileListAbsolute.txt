@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\bin\Debug\net8.0\My lesson 2 Konstruktory.exe
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\bin\Debug\net8.0\My lesson 2 Konstruktory.deps.json
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\bin\Debug\net8.0\My lesson 2 Konstruktory.runtimeconfig.json
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\bin\Debug\net8.0\My lesson 2 Konstruktory.dll
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\bin\Debug\net8.0\My lesson 2 Konstruktory.pdb
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.AssemblyInfo.cs
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.dll
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\refint\My lesson 2 Konstruktory.dll
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.pdb
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\My lesson 2 Konstruktory.genruntimeconfig.cache
+C:\Users\user\source\repos\My lesson 2 Konstruktory\My lesson 2 Konstruktory\obj\Debug\net8.0\ref\My lesson 2 Konstruktory.dll

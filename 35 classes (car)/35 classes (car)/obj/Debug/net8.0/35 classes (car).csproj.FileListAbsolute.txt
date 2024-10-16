@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\bin\Debug\net8.0\35 classes (car).exe
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\bin\Debug\net8.0\35 classes (car).deps.json
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\bin\Debug\net8.0\35 classes (car).runtimeconfig.json
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\bin\Debug\net8.0\35 classes (car).dll
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\bin\Debug\net8.0\35 classes (car).pdb
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).AssemblyInfo.cs
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).dll
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\refint\35 classes (car).dll
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).pdb
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\35 classes (car).genruntimeconfig.cache
+C:\Users\user\source\repos\35 classes (car)\35 classes (car)\obj\Debug\net8.0\ref\35 classes (car).dll

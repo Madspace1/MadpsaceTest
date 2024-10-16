@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\bin\Debug\net8.0\MAD 16 табличка множення.exe
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\bin\Debug\net8.0\MAD 16 табличка множення.deps.json
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\bin\Debug\net8.0\MAD 16 табличка множення.runtimeconfig.json
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\bin\Debug\net8.0\MAD 16 табличка множення.dll
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\bin\Debug\net8.0\MAD 16 табличка множення.pdb
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.dll
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\refint\MAD 16 табличка множення.dll
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.pdb
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\MAD 16 табличка множення.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 16 табличка множення\MAD 16 табличка множення\obj\Debug\net8.0\ref\MAD 16 табличка множення.dll

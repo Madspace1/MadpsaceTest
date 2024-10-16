@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAD 16 табличка множення", "MAD 16 табличка множення\MAD 16 табличка множення.csproj", "{D85304E2-1D47-4B45-BE01-1F63A592E093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85304E2-1D47-4B45-BE01-1F63A592E093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85304E2-1D47-4B45-BE01-1F63A592E093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85304E2-1D47-4B45-BE01-1F63A592E093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85304E2-1D47-4B45-BE01-1F63A592E093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF76F87-7AD0-4D7D-A269-1A7568F8887F}
+	EndGlobalSection
+EndGlobal

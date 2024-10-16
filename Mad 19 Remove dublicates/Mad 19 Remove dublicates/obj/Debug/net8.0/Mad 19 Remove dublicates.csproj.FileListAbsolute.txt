@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\bin\Debug\net8.0\Mad 19 Remove dublicates.exe
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\bin\Debug\net8.0\Mad 19 Remove dublicates.deps.json
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\bin\Debug\net8.0\Mad 19 Remove dublicates.runtimeconfig.json
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\bin\Debug\net8.0\Mad 19 Remove dublicates.dll
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\bin\Debug\net8.0\Mad 19 Remove dublicates.pdb
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.AssemblyInfo.cs
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.dll
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\refint\Mad 19 Remove dublicates.dll
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.pdb
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\Mad 19 Remove dublicates.genruntimeconfig.cache
+C:\Users\user\source\repos\Mad 19 Remove dublicates\Mad 19 Remove dublicates\obj\Debug\net8.0\ref\Mad 19 Remove dublicates.dll

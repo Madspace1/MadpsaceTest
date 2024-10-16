@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\bin\Debug\net8.0\MAD 13 GAME.exe
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\bin\Debug\net8.0\MAD 13 GAME.deps.json
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\bin\Debug\net8.0\MAD 13 GAME.runtimeconfig.json
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\bin\Debug\net8.0\MAD 13 GAME.dll
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\bin\Debug\net8.0\MAD 13 GAME.pdb
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.dll
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\refint\MAD 13 GAME.dll
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.pdb
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\MAD 13 GAME.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 13 GAME\MAD 13 GAME\obj\Debug\net8.0\ref\MAD 13 GAME.dll

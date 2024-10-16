@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MAD 7 Price and discount/1.0.0": {
+        "runtime": {
+          "MAD 7 Price and discount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAD 7 Price and discount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\bin\Debug\net8.0\MAD 23 2 lists commons.exe
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\bin\Debug\net8.0\MAD 23 2 lists commons.deps.json
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\bin\Debug\net8.0\MAD 23 2 lists commons.runtimeconfig.json
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\bin\Debug\net8.0\MAD 23 2 lists commons.dll
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\bin\Debug\net8.0\MAD 23 2 lists commons.pdb
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.dll
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\refint\MAD 23 2 lists commons.dll
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.pdb
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\MAD 23 2 lists commons.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 23 2 lists commons\MAD 23 2 lists commons\obj\Debug\net8.0\ref\MAD 23 2 lists commons.dll

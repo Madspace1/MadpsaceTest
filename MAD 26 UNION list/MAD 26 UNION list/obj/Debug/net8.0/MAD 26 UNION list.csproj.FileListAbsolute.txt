@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\bin\Debug\net8.0\MAD 26 UNION list.exe
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\bin\Debug\net8.0\MAD 26 UNION list.deps.json
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\bin\Debug\net8.0\MAD 26 UNION list.runtimeconfig.json
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\bin\Debug\net8.0\MAD 26 UNION list.dll
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\bin\Debug\net8.0\MAD 26 UNION list.pdb
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.dll
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\refint\MAD 26 UNION list.dll
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.pdb
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\MAD 26 UNION list.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 26 UNION list\MAD 26 UNION list\obj\Debug\net8.0\ref\MAD 26 UNION list.dll

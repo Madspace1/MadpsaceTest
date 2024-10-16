@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\bin\Debug\net8.0\39 Expandable List.exe
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\bin\Debug\net8.0\39 Expandable List.deps.json
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\bin\Debug\net8.0\39 Expandable List.runtimeconfig.json
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\bin\Debug\net8.0\39 Expandable List.dll
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\bin\Debug\net8.0\39 Expandable List.pdb
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.AssemblyInfo.cs
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.dll
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\refint\39 Expandable List.dll
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.pdb
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\39 Expandable List.genruntimeconfig.cache
+C:\Users\user\source\repos\39 Expandable List\39 Expandable List\obj\Debug\net8.0\ref\39 Expandable List.dll

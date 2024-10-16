@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\bin\Debug\net8.0\MAD - 2 task.exe
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\bin\Debug\net8.0\MAD - 2 task.deps.json
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\bin\Debug\net8.0\MAD - 2 task.runtimeconfig.json
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\bin\Debug\net8.0\MAD - 2 task.dll
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\bin\Debug\net8.0\MAD - 2 task.pdb
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.dll
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\refint\MAD - 2 task.dll
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.pdb
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\MAD - 2 task.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD - 2 task\MAD - 2 task\obj\Debug\net8.0\ref\MAD - 2 task.dll

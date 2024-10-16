@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\bin\Debug\net8.0\MAD 9 arrey element counter.exe
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\bin\Debug\net8.0\MAD 9 arrey element counter.deps.json
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\bin\Debug\net8.0\MAD 9 arrey element counter.runtimeconfig.json
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\bin\Debug\net8.0\MAD 9 arrey element counter.dll
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\bin\Debug\net8.0\MAD 9 arrey element counter.pdb
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.dll
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\refint\MAD 9 arrey element counter.dll
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.pdb
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\MAD 9 arrey element counter.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 9 arrey element counter\MAD 9 arrey element counter\obj\Debug\net8.0\ref\MAD 9 arrey element counter.dll

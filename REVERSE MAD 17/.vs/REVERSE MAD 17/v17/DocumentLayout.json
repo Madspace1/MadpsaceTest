@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\REVERSE MAD 17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64753DB2-418D-46CA-A670-7FD4C19FDD45}|REVERSE MAD 17\\REVERSE MAD 17.csproj|c:\\users\\user\\source\\repos\\reverse mad 17\\reverse mad 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64753DB2-418D-46CA-A670-7FD4C19FDD45}|REVERSE MAD 17\\REVERSE MAD 17.csproj|solutionrelative:reverse mad 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\REVERSE MAD 17\\REVERSE MAD 17\\Program.cs",
+              "RelativeDocumentMoniker": "REVERSE MAD 17\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\REVERSE MAD 17\\REVERSE MAD 17\\Program.cs",
+              "RelativeToolTip": "REVERSE MAD 17\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:15:36.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

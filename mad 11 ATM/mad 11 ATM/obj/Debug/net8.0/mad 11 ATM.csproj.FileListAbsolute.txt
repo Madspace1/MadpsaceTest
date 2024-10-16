@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\bin\Debug\net8.0\mad 11 ATM.exe
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\bin\Debug\net8.0\mad 11 ATM.deps.json
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\bin\Debug\net8.0\mad 11 ATM.runtimeconfig.json
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\bin\Debug\net8.0\mad 11 ATM.dll
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\bin\Debug\net8.0\mad 11 ATM.pdb
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.AssemblyInfo.cs
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.dll
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\refint\mad 11 ATM.dll
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.pdb
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\mad 11 ATM.genruntimeconfig.cache
+C:\Users\user\source\repos\mad 11 ATM\mad 11 ATM\obj\Debug\net8.0\ref\mad 11 ATM.dll

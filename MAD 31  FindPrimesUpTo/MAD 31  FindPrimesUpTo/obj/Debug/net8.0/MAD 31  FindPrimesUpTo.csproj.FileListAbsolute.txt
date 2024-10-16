@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\bin\Debug\net8.0\MAD 31  FindPrimesUpTo.exe
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\bin\Debug\net8.0\MAD 31  FindPrimesUpTo.deps.json
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\bin\Debug\net8.0\MAD 31  FindPrimesUpTo.runtimeconfig.json
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\bin\Debug\net8.0\MAD 31  FindPrimesUpTo.dll
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\bin\Debug\net8.0\MAD 31  FindPrimesUpTo.pdb
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.dll
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\refint\MAD 31  FindPrimesUpTo.dll
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.pdb
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\MAD 31  FindPrimesUpTo.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 31  FindPrimesUpTo\MAD 31  FindPrimesUpTo\obj\Debug\net8.0\ref\MAD 31  FindPrimesUpTo.dll

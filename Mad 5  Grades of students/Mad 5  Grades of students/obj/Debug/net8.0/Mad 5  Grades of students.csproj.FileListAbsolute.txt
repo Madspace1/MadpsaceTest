@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\bin\Debug\net8.0\Mad 5  Grades of students.exe
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\bin\Debug\net8.0\Mad 5  Grades of students.deps.json
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\bin\Debug\net8.0\Mad 5  Grades of students.runtimeconfig.json
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\bin\Debug\net8.0\Mad 5  Grades of students.dll
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\bin\Debug\net8.0\Mad 5  Grades of students.pdb
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.AssemblyInfo.cs
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.dll
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\refint\Mad 5  Grades of students.dll
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.pdb
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\Mad 5  Grades of students.genruntimeconfig.cache
+C:\Users\user\source\repos\Mad 5  Grades of students\Mad 5  Grades of students\obj\Debug\net8.0\ref\Mad 5  Grades of students.dll

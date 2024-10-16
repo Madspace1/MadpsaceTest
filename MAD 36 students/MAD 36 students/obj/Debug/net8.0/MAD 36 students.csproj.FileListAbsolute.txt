@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\bin\Debug\net8.0\MAD 36 students.exe
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\bin\Debug\net8.0\MAD 36 students.deps.json
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\bin\Debug\net8.0\MAD 36 students.runtimeconfig.json
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\bin\Debug\net8.0\MAD 36 students.dll
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\bin\Debug\net8.0\MAD 36 students.pdb
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.dll
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\refint\MAD 36 students.dll
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.pdb
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\MAD 36 students.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 36 students\MAD 36 students\obj\Debug\net8.0\ref\MAD 36 students.dll

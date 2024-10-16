@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\My lesson 2 Konstruktory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{937B50EC-3A43-424B-A9AA-2507BCA4A9CE}|My lesson 2 Konstruktory\\My lesson 2 Konstruktory.csproj|c:\\users\\user\\source\\repos\\my lesson 2 konstruktory\\my lesson 2 konstruktory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937B50EC-3A43-424B-A9AA-2507BCA4A9CE}|My lesson 2 Konstruktory\\My lesson 2 Konstruktory.csproj|solutionrelative:my lesson 2 konstruktory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\My lesson 2 Konstruktory\\My lesson 2 Konstruktory\\Program.cs",
+              "RelativeDocumentMoniker": "My lesson 2 Konstruktory\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\My lesson 2 Konstruktory\\My lesson 2 Konstruktory\\Program.cs",
+              "RelativeToolTip": "My lesson 2 Konstruktory\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:29:50.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

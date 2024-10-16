@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\bin\Debug\net8.0\MAD 8 Calculator mod.exe
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\bin\Debug\net8.0\MAD 8 Calculator mod.deps.json
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\bin\Debug\net8.0\MAD 8 Calculator mod.runtimeconfig.json
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\bin\Debug\net8.0\MAD 8 Calculator mod.dll
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\bin\Debug\net8.0\MAD 8 Calculator mod.pdb
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.dll
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\refint\MAD 8 Calculator mod.dll
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.pdb
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\MAD 8 Calculator mod.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 8 Calculator mod\MAD 8 Calculator mod\obj\Debug\net8.0\ref\MAD 8 Calculator mod.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\bin\Debug\net8.0\MAD 32 power of number.exe
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\bin\Debug\net8.0\MAD 32 power of number.deps.json
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\bin\Debug\net8.0\MAD 32 power of number.runtimeconfig.json
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\bin\Debug\net8.0\MAD 32 power of number.dll
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\bin\Debug\net8.0\MAD 32 power of number.pdb
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.dll
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\refint\MAD 32 power of number.dll
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.pdb
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\MAD 32 power of number.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 32 power of number\MAD 32 power of number\obj\Debug\net8.0\ref\MAD 32 power of number.dll

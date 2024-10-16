@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\bin\Debug\net8.0\MAD 23 Intersection of two lists.exe
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\bin\Debug\net8.0\MAD 23 Intersection of two lists.deps.json
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\bin\Debug\net8.0\MAD 23 Intersection of two lists.runtimeconfig.json
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\bin\Debug\net8.0\MAD 23 Intersection of two lists.dll
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\bin\Debug\net8.0\MAD 23 Intersection of two lists.pdb
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.dll
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\refint\MAD 23 Intersection of two lists.dll
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.pdb
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\MAD 23 Intersection of two lists.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 23 Intersection of two lists\MAD 23 Intersection of two lists\obj\Debug\net8.0\ref\MAD 23 Intersection of two lists.dll

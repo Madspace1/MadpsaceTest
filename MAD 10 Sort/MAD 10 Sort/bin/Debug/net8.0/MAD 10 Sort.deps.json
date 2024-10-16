@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MAD 10 Sort/1.0.0": {
+        "runtime": {
+          "MAD 10 Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAD 10 Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

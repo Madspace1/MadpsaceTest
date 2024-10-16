@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\bin\Debug\net8.0\MAD 33 factor.exe
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\bin\Debug\net8.0\MAD 33 factor.deps.json
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\bin\Debug\net8.0\MAD 33 factor.runtimeconfig.json
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\bin\Debug\net8.0\MAD 33 factor.dll
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\bin\Debug\net8.0\MAD 33 factor.pdb
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.AssemblyInfo.cs
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.dll
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\refint\MAD 33 factor.dll
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.pdb
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\MAD 33 factor.genruntimeconfig.cache
+C:\Users\user\source\repos\MAD 33 factor\MAD 33 factor\obj\Debug\net8.0\ref\MAD 33 factor.dll

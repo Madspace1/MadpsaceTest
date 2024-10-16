@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\bin\Debug\net8.0\FOREACH and methods.exe
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\bin\Debug\net8.0\FOREACH and methods.deps.json
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\bin\Debug\net8.0\FOREACH and methods.runtimeconfig.json
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\bin\Debug\net8.0\FOREACH and methods.dll
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\bin\Debug\net8.0\FOREACH and methods.pdb
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.AssemblyInfo.cs
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.dll
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\refint\FOREACH and methods.dll
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.pdb
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\FOREACH and methods.genruntimeconfig.cache
+C:\Users\user\source\repos\FOREACH and methods\FOREACH and methods\obj\Debug\net8.0\ref\FOREACH and methods.dll
